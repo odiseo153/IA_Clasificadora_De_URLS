@@ -52,14 +52,6 @@ Este modelo aborda varios problemas críticos en la ciberseguridad:
 - **Detección de Malware**: Identifica URLs que hospedan malware, protegiendo a los usuarios de posibles infecciones.
 - **Evaluación de URLs**: Facilita la tarea de evaluar grandes volúmenes de URLs, reduciendo la carga de trabajo manual en equipos de seguridad.
 
-## Créditos
-
-- **Hilari** - Presentador/a
-- **Emmanuel** - FrontEnd
-- **Odiseo** - Modelo
-- **Roberto** - Modelo
-- **Obed** - BackEnd
-
 Esperamos que este proyecto sea útil y contribuya a un entorno web más seguro.
 
 ¡Gracias por tu interés y colaboración!
