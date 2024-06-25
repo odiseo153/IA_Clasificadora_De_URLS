@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+numpy
+matplotlib
+xgboost
+lightgbm
+seaborn
+wordcloud
+urllib3
+google
+tld
+joblib
+pymongo
+flask
